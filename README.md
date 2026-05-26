@@ -135,7 +135,11 @@ music-store-sql-analysis/
 ## 👨‍💻 Author
 
 **Karthik Vaddi**
+
 B.Tech in Artificial Intelligence & Machine Learning
+
 📧 vaddikarthik2004@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/karthik-vaddi-581193268/)
+
 🐙 [GitHub](https://github.com/vaddi-karthik)
